@@ -24,7 +24,3 @@ Cuando no estoy programando, probablemente estoy leyendo algo que me recomendaro
 [LinkedIn](https://www.linkedin.com/in/jhosep-renato-pantoja-robinson-429598251/) · [Instagram](https://www.instagram.com/renato_robinsonn/)
 
 <br>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Natzix&theme=minimal&hide_border=true" alt="GitHub Streak" width="500"/>
-</div>
